@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I have a computer technician course integrated with high school at the Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), which entails experience in the area of technology information shapes a wide range of matters related to programming and computer networks, highlighted programming in C#, Java, PHP, Javascript, PostgreSQL, MySql, Sql Server, Batch linux commands between the operating system structural architecture, Frameworks (JQuery, Drupal, Bootstrap, AngularJs), preparation and Execution of network and software projects using techniques such as software: documents based on UML and development: MVC. But also with knowledge in networks, whose studied network security technique was RNI, among other basic studies.
+### Anyway, I moved to Campo Grande MS in January 2017 and started my studies in engineering at Center of the Uniderp. Campus Headquarters, where I am in the 10th semester and always looking to complement and improve my knowledge in the area of the question.
+
 <!--
 **dantonissler/dantonissler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
