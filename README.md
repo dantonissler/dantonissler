@@ -7,6 +7,27 @@ Anyway, I moved to Campo Grande MS in January 2017 and started my studies in eng
 - 🔭 I’m currently working on Ernesto Borges Advogados
 - 🌱 I’m currently learning Computer Engineering
 
+
+
+### Below are my social networks, feel free to contact me or leave a message
+
+<a href="https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
+<a href="https://www.instagram.com/dantonisslerrod/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://t.me/DantonIssler" target="_blank">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=556792466935">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+### Git usage status:
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=eduardoranzzani&theme=dark&show_icons=true&count_private=true)](https://github.com/eduardoranzzani)
+
+
 <!--
 **dantonissler/dantonissler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
