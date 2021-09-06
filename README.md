@@ -25,7 +25,7 @@ Anyway, I moved to Campo Grande MS in January 2017 and started my studies in eng
 </a>
 
 ### Git usage status:
-[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=eduardoranzzani&theme=dark&show_icons=true&count_private=true)](https://github.com/eduardoranzzani)
+[![Danton's github stats](https://github-readme-stats.vercel.app/api?username=dantonissler&theme=dark&show_icons=true&count_private=true)](https://github.com/dantonissler)
 
 
 <!--
