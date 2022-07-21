@@ -37,7 +37,7 @@ soluções web.
 <a href="https://bitbucket.org/dantonissler" target="_blank">
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </a>
-<a>
+<a href="https://github.com/dantonissler/dantonissler/blob/main/README.md">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
