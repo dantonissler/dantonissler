@@ -1,6 +1,6 @@
 ### Olá, sou Danton 👋
 
-Possuo curso de técnico em informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), que agrega experiência na área de tecnologia da informação molda uma ampla gama de assuntos
+Possuo curso técnico em informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), que agrega experiência na área de tecnologia da informação molda uma ampla gama de assuntos
 relacionados à programação e redes de computadores, destaque programação em C#, Java, PHP e Javascript modelagem de banco de dados utilizando PostgreSQL, MySql, Sql Server, comandos Batch linux entre a arquitetura estrutural do sistema
 operacional, Frameworks (JQuery, Drupal, Bootstrap, AngularJs), elaboração e execução de projetos de rede e software utilizando técnicas como software: documentos baseados em UML e desenvolvimento: MVC. Mas também com conhecimentos em
 redes, cuja técnica de segurança de rede estudada foi a RNI.
