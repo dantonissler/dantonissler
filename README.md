@@ -10,7 +10,7 @@ soluções web.
 
 - 🔭 Atualmente trabalho como desenvolvedor de software no Ernesto Borges Advogados em Campo Grande - MS
 - 🌱 Cursando o bacharelado em Engenharia da Computação
-- 😄 Atualmente meu foco é
+- 😄 Atualmente meu foco é me tornar um Full Stack Developer
 
 <hr>
 
