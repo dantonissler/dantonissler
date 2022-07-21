@@ -1,44 +1,146 @@
-### Hi there, I'm Danton. 👋
+### Olá, sou Danton 👋
 
-I have a computer technician course integrated with high school at the Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), which entails experience in the area of technology information shapes a wide range of matters related to programming and computer networks, highlighted programming in C#, Java, PHP, Javascript, PostgreSQL, MySql, Sql Server, Batch linux commands between the operating system structural architecture, Frameworks (JQuery, Drupal, Bootstrap, AngularJs), preparation and Execution of network and software projects using techniques such as software: documents based on UML and development: MVC. But also with knowledge in networks, whose studied network security technique was RNI, among other basic studies.
+Possuo curso de técnico em informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), que agrega experiência na área de tecnologia da informação molda uma ampla gama de assuntos
+relacionados à programação e redes de computadores, destaque programação em C#, Java, PHP e Javascript modelagem de banco de dados utilizando PostgreSQL, MySql, Sql Server, comandos Batch linux entre a arquitetura estrutural do sistema
+operacional, Frameworks (JQuery, Drupal, Bootstrap, AngularJs), elaboração e execução de projetos de rede e software utilizando técnicas como software: documentos baseados em UML e desenvolvimento: MVC. Mas também com conhecimentos em
+redes, cuja técnica de segurança de rede estudada foi a RNI.
 
-Anyway, I moved to Campo Grande MS in January 2017 and started my studies in engineering at Center of the Uniderp. Campus Headquarters, where I am in the 10th semester and always looking to complement and improve my knowledge in the area of the question.
+Enfim, mudei para Campo Grande MS em janeiro de 2017 onde iniciei o bacharelado em Engenharia da Computação na Universidade Uniderp, onde estou no 10º semestre e sempre buscando aprimorar os meus conhecimentos como um full stack focado em
+soluções web.
 
-- 🔭 I’m currently working on Ernesto Borges Advogados
-- 🌱 I’m currently learning Computer Engineering
+- 🔭 Atualmente trabalho como desenvolvedor de software no Ernesto Borges Advogados em Campo Grande - MS
+- 🌱 Cursando o bacharelado em Engenharia da Computação
+- 😄 Atualmente meu foco é
 
+<hr>
 
-
-### Below are my social networks, feel free to contact me or leave a message
+### Abaixo estão as minhas redes sociais, sinta-se à vontade para entrar em contato comigo ou deixar uma mensagem 📫
 
 <a href="https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
+</a>
+<a href="https://t.me/DantonIssler" target="_blank">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=556792466935" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:danton.issler18@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.instagram.com/dantonisslerrod/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://t.me/DantonIssler" target="_blank">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="mailto:danton.issler18@gmail.com" target="_blank">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=556792466935">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="mailto:danton.issler18@gmail.com" target="_blank">
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </a>
+<a href="mailto:danton.issler18@gmail.com" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<hr>
+
+## Minhas Habilidades 🛠
+
+### Front-End
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Back-End
+
+#### Foco em:
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+
+#### Experiencia com:
+
+<p> 
+    <img alt="java" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Banco de Dados
+
+#### Foco em:
+
+#### Experiencia com:
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Cloud
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Docker
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Sistemas Operacionais
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="java" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+<hr/>
+
+### Servidor WEB
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"/>
+    <img alt="java" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+<hr/>
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+<hr/>
+
+<p>
+    <img alt="java" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<hr/>
 
 ### Git usage status:
-[![Danton's github stats](https://github-readme-stats.vercel.app/api?username=dantonissler&theme=dark&show_icons=true&count_private=true)](https://github.com/dantonissler)
 
-
-<!--
-**dantonissler/dantonissler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Danton's github stats](https://github-readme-stats.vercel.app/api?username=dantonissler&theme=dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/dantonissler) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&langs_count=6&theme=dracula"/>
