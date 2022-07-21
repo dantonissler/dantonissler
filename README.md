@@ -31,10 +31,10 @@ soluções web.
 <a href="https://www.instagram.com/dantonisslerrod/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:danton.issler18@gmail.com" target="_blank">
+<a href="https://gitlab.com/danton.issler" target="_blank">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 </a>
-<a href="mailto:danton.issler18@gmail.com" target="_blank">
+<a href="https://bitbucket.org/dantonissler" target="_blank">
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </a>
 <a>
