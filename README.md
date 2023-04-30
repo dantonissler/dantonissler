@@ -1,14 +1,8 @@
 ### Olá, sou Danton 👋
 
-Possuo curso técnico em informática integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia - (IFRO), que agrega experiência na área de tecnologia da informação molda uma ampla gama de assuntos
-relacionados à programação e redes de computadores, destaque programação em C#, Java, PHP e Javascript modelagem de banco de dados utilizando PostgreSQL, MySql, Sql Server, comandos Batch linux entre a arquitetura estrutural do sistema
-operacional, Frameworks (JQuery, Drupal, Bootstrap, AngularJs), elaboração e execução de projetos de rede e software utilizando técnicas como software: documentos baseados em UML e desenvolvimento: MVC. Mas também com conhecimentos em
-redes, cuja técnica de segurança de rede estudada foi a RNI.
+Sou um Engenheiro de Software, possuo a formação técnica em Informática pela IFRO - Campus Ji-Paraná também o bacharelado em Engenharia da Computação pela Uniderp, portanto estudo tecnologia desde 2013 e atuando com na área desde 2017, com mais de 5 anos de experiência em diversos setores, incluindo jurídico eu desenvolvi habilidades em todas as etapas do desenvolvimento de ferramentas, softwares e aplicativos, desde o planejamento até a execução e manutenção. Minha principal linguagem de programação é Java/Maven, mas também tenho experiência em outras linguagens, como Python e Typescript. Além disso, tenho conhecimento em CI/CD, arquitetura de software, testes, observabilidade e alertas/monitoramento. Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Adoro trabalhar em equipe e compartilhar conhecimento.
 
-Enfim, mudei para Campo Grande MS em janeiro de 2017 onde iniciei o bacharelado em Engenharia da Computação na Universidade Uniderp, onde estou no 10º semestre e sempre buscando aprimorar os meus conhecimentos como um full stack focado em
-soluções web.
-
-- 🔭 Atualmente trabalho como desenvolvedor de software no Ernesto Borges Advogados em Campo Grande - MS
+- 🔭 Atualmente trabalho como Engenherio de software no Ernesto Borges Advogados em Campo Grande - MS
 - 🌱 Cursando o bacharelado em Engenharia da Computação
 - 😄 Atualmente meu foco é me tornar um Full Stack Developer
 
