@@ -12,7 +12,7 @@ Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorve
 
 - 🔭 Atualmente trabalho como Team Leader no escritório Ernesto Borges Advogados em Campo Grande - MS
 - 🌱 Cursando o bacharelado em Engenharia da Computação
-- 😄 Atualmente meu foco é me tornar um Full Stack Developer
+- 😄 Atualmente meu foco é me tornar um Lider melhor
 
 <hr>
 
