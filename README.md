@@ -1,8 +1,26 @@
 ### Olá, sou Danton 👋
 
-Sou um Engenheiro de Software, possuo a formação técnica em Informática pela IFRO - Campus Ji-Paraná também o bacharelado em Engenharia da Computação pela Uniderp, portanto estudo tecnologia desde 2013 e atuando com na área desde 2017, com mais de 5 anos de experiência em diversos setores, incluindo jurídico eu desenvolvi habilidades em todas as etapas do desenvolvimento de ferramentas, softwares e aplicativos, desde o planejamento até a execução e manutenção. Minha principal linguagem de programação é Java/Maven, mas também tenho experiência em outras linguagens, como Python e Typescript. Além disso, tenho conhecimento em CI/CD, arquitetura de software, testes, observabilidade e alertas/monitoramento. Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Adoro trabalhar em equipe e compartilhar conhecimento.
+Atualmente, atuo em tempo integral como líder técnico da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa. Sou bacharel em Engenharia da Computação pela Uniderp e
+técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o
+setor jurídico.
 
-- 🔭 Atualmente trabalho como Engenherio de software no Ernesto Borges Advogados em Campo Grande - MS
+Minha carreira como desenvolvedor permitiu-me adquirir habilidades em todas as etapas do desenvolvimento de ferramentas automatizadas, softwares e aplicativos, desde o planejamento com escalabilidade até a execução e manutenção. Minha principal
+linguagem de programação é Java/Maven, mas também possuo ampla experiência em outras linguagens, como Python, TypeScript, JavaScript, Ruby on Rails e PHP, além de linguagens para desenvolvimento de pipelines como bash. Tenho conhecimento em bancos de
+dados SQL e NoSQL e experiência em plataformas como Azure e AWS. Utilizando o CopilotStudio, criei um bot de criação de chamados no GLPI interno utilizando o Teams. Adoro novos desafios e estou sempre pronto para explorar novas tecnologias.
+
+Tenho um profundo conhecimento em estrutura de dados, arquitetura e engenharia de software e dados, containerização (Docker), CI/CD, testes automatizados, observabilidade e monitoramento.
+
+Meu cargo atual como líder de equipe me possibilitou treinar novos colegas, participar de decisões estratégicas e criar a estrutura e diretivas do meu setor, além de desenvolver a infraestrutura necessária para a publicação das ferramentas e a
+padronização do código. Também criei uma extensa documentação para facilitar a adoção e o treinamento de novos colegas. Trabalho intensivamente com soluções utilizando inteligência artificial generativa, juntamente com algoritmos em Python, atuando
+em projetos estratégicos de alto valor.
+
+Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Valorizo o trabalho em equipe e a troca de conhecimento.
+
+### Git usage status:
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&langs_count=6&theme=dracula"/>
+
+- 🔭 Atualmente trabalho como Team Leader no escritório Ernesto Borges Advogados em Campo Grande - MS
 - 🌱 Cursando o bacharelado em Engenharia da Computação
 - 😄 Atualmente meu foco é me tornar um Full Stack Developer
 
@@ -59,23 +77,42 @@ Sou um Engenheiro de Software, possuo a formação técnica em Informática pela
 #### Foco em:
 
 <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 #### Experiencia com:
 
-<p> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<p>
+    <img alt="BashScript" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000"/>
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 <hr/>
+
+### Bibliotecas e Frameworks
+
+#### Foco em:
+
+<p>
+  	<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+#### Experiencia com:
+
+<p>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
 ### Banco de Dados
 
@@ -85,13 +122,14 @@ Sou um Engenheiro de Software, possuo a formação técnica em Informática pela
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="sql server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 #### Experiencia com:
 
 <p>
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
@@ -120,6 +158,9 @@ Sou um Engenheiro de Software, possuo a formação técnica em Informática pela
 
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0"/>
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
@@ -134,11 +175,15 @@ Sou um Engenheiro de Software, possuo a formação técnica em Informática pela
 
 <hr/>
 
+### CI/CD
+
 <p>
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 <hr/>
+
+### Versionamento de código 
 
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
@@ -146,6 +191,13 @@ Sou um Engenheiro de Software, possuo a formação técnica em Informática pela
 
 <hr/>
 
-### Git usage status:
+### Cache
 
-[![Danton's github stats](https://github-readme-stats.vercel.app/api?username=dantonissler&theme=dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/dantonissler) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&langs_count=6&theme=dracula"/>
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud Computing Service
+
+<p>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
