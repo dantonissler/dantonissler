@@ -1,5 +1,17 @@
 # 👋 Olá, eu sou Danton Issler Rodrigues 
-**Tech Lead | Engenheiro de Dados & IA | Java/Python Specialist**  
+**Tech Lead | Engenheiro de Dados & IA | Java/Python Specialist**
+
+Atualmente, atuo em tempo integral como Tech Lead da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa em todo o Brasil. Sou bacharel em Engenharia da Computação pela Uniderp e técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o setor jurídico.
+
+Minha carreira como desenvolvedor permitiu-me adquirir habilidades em todas as etapas do desenvolvimento de ferramentas automatizadas, softwares e aplicativos, desde o planejamento com escalabilidade até a execução e manutenção. Minha principal linguagem de programação é Java/Maven, mas também possuo ampla experiência em outras linguagens, como Python, TypeScript, JavaScript, Ruby on Rails e PHP, além de linguagens para desenvolvimento de pipelines como bash. Tenho conhecimento em bancos de dados SQL e NoSQL e experiência em plataformas como Azure e AWS. Utilizando o CopilotStudio, criei um bot de criação de chamados no GLPI interno utilizando o Teams. Adoro novos desafios e estou sempre pronto para explorar novas tecnologias.
+
+Tenho um profundo conhecimento em estrutura de dados, arquitetura e engenharia de software e dados, containerização (Docker), CI/CD, testes automatizados, observabilidade e monitoramento.
+
+Meu cargo atual como líder de equipe me possibilitou treinar novos colegas, participar de decisões estratégicas e criar a estrutura e diretivas do meu setor, além de desenvolver a infraestrutura necessária para a publicação das ferramentas e a padronização do código. Também criei uma extensa documentação para facilitar a adoção e o treinamento de novos colegas. Trabalho intensivamente com soluções utilizando inteligência artificial generativa, juntamente com algoritmos em Python, atuando em projetos estratégicos de alto valor.
+
+Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Valorizo o trabalho em equipe e a troca de conhecimento.
+
+<hr>
 
 💼 **Atual:** Tech Lead de Dados & IA no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
 🎓 **Formação:** Bacharel em Engenharia da Computação (Uniderp) + Técnico em Informática (IFRO)  
@@ -24,10 +36,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
----
-
-Aqui está uma versão aprimorada dos seus destaques, com **linguagem mais impactante, métricas concretas e foco em resultados** para chamar a atenção de recrutadores:
 
 ---
 
@@ -66,25 +74,7 @@ Aqui está uma versão aprimorada dos seus destaques, com **linguagem mais impac
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
 
-Atualmente, atuo em tempo integral como Tech Lead da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa em todo o Brasil. Sou bacharel em Engenharia da Computação pela Uniderp e técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o setor jurídico.
 
-Minha carreira como desenvolvedor permitiu-me adquirir habilidades em todas as etapas do desenvolvimento de ferramentas automatizadas, softwares e aplicativos, desde o planejamento com escalabilidade até a execução e manutenção. Minha principal linguagem de programação é Java/Maven, mas também possuo ampla experiência em outras linguagens, como Python, TypeScript, JavaScript, Ruby on Rails e PHP, além de linguagens para desenvolvimento de pipelines como bash. Tenho conhecimento em bancos de dados SQL e NoSQL e experiência em plataformas como Azure e AWS. Utilizando o CopilotStudio, criei um bot de criação de chamados no GLPI interno utilizando o Teams. Adoro novos desafios e estou sempre pronto para explorar novas tecnologias.
-
-Tenho um profundo conhecimento em estrutura de dados, arquitetura e engenharia de software e dados, containerização (Docker), CI/CD, testes automatizados, observabilidade e monitoramento.
-
-Meu cargo atual como líder de equipe me possibilitou treinar novos colegas, participar de decisões estratégicas e criar a estrutura e diretivas do meu setor, além de desenvolver a infraestrutura necessária para a publicação das ferramentas e a padronização do código. Também criei uma extensa documentação para facilitar a adoção e o treinamento de novos colegas. Trabalho intensivamente com soluções utilizando inteligência artificial generativa, juntamente com algoritmos em Python, atuando em projetos estratégicos de alto valor.
-
-Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Valorizo o trabalho em equipe e a troca de conhecimento.
-
-- 🔭 Atualmente trabalho como Team Leader no escritório Ernesto Borges Advogados em Campo Grande - MS
-- 🌱 Cursando o bacharelado em Engenharia da Computação
-- 😄 Atualmente meu foco é me tornar um Lider melhor
-
-## 🔧 Projetos Relevantes  
-- **Sistema de Análise Jurídica**: API Python + NLP para classificação de processos  
-- **Data Pipeline**: ETL diário de 50GB de dados judiciais (Airflow + Spark)  
-
-<hr>
 
 ### Git usage status:
 
