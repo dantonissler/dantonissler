@@ -1,4 +1,83 @@
 # 👋 Olá, eu sou Danton Issler Rodrigues 
+**Tech Lead | Engenheiro de Dados & IA | Especialista em Soluções Jurídicas Tecnológicas**
+
+💼 **Tech Lead de Dados & IA** no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
+🎓 Bacharel em Engenharia da Computação (Uniderp) | Técnico em Informática (IFRO)  
+🚀 **7+ anos** desenvolvendo sistemas escaláveis para contencioso em massa  
+
+## 🔍 **Sobre Mim**
+Líder técnico com expertise em **arquitetura de dados, IA generativa e automação de processos jurídicos**. Minha trajetória inclui:
+- Domínio completo do ciclo de desenvolvimento (planejamento → implantação → monitoramento)
+- Especialização em **Java/Python** e ecossistema de dados (Airflow, Spark, AWS)
+- Implementação de **padrões de governança** e documentação técnica para equipes
+
+---
+
+## 🛠 **Stack Principal**  
+### ☁️ **Cloud & Infraestrutura**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### 📊 **Engenharia de Dados**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### ⚙️ **Backend & DevOps**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+---
+
+## 🏆 **Destaques**  
+### 🚀 **Liderança Técnica**  
+- Estruturei o setor de **Dados & IA** em escritório TOP 3 de contencioso em massa:  
+  - Implementação de **CI/CD** (redução de 40% em incidentes pós-deploy)  
+  - Criação de framework interno para padronização de código  
+
+### 🤖 **Inovações com IA**  
+- **Assistente jurídico inteligente** (Teams + GLPI + Copilot Studio):  
+  - Redução de **30% no tempo** de abertura de chamados  
+  - Pipeline de **NLP para classificação automática** de processos  
+
+### 📈 **Soluções em Escala**  
+- Arquitetura de dados para **100k+ casos/ano**:  
+  - Processamento de **2TB/mês** com Airflow + Spark  
+  - Otimização de **25% nos custos** AWS (S3/Redshift)  
+
+---
+
+## 📊 **GitHub Analytics**  
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
+|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+---
+
+## 📫 **Contato**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 👋 Olá, eu sou Danton Issler Rodrigues 
 **Tech Lead | Engenheiro de Dados & IA | Java/Python Specialist**
 
 Atualmente, atuo em tempo integral como Tech Lead da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa em todo o Brasil. Sou bacharel em Engenharia da Computação pela Uniderp e técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o setor jurídico.
