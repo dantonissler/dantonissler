@@ -39,109 +39,16 @@ Líder técnico especializado em transformar complexidade jurídica em sistemas 
 
 ---
 
-## 🛠 **Projetos Técnicos em Destaque**
-
-### 1. **Sistema de Automação Jurídica com IA**  
-`Python` `FastAPI` `Transformers` `AWS Lambda`  
-```python
-# Pipeline de NLP para documentos jurídicos
-from transformers import pipeline
-
-nlp = pipeline("ner", model="legal-bert", device=0)
-results = nlp(legal_document)
-```
-- Processamento de **500+ documentos/dia** com 92% de acurácia
-- Integração com Microsoft Teams via Copilot Studio
-- Redução de **30% no tempo** de processos manuais
-
-### 2. **Pipeline de Dados para Contencioso em Massa**  
-`Airflow` `Spark` `Redshift` `dbt` `ChatGPT`
-```sql
--- Consulta otimizada no Redshift
-SELECT court_region, COUNT(*) 
-FROM legal_cases 
-PARTITION BY filing_date
-```
-- Processamento de **2TB/mês** de dados judiciais
-- Arquitetura que reduziu custos em **25%**
-- Monitoramento em tempo real com Grafana/Prometheus
-
-### 3. **Framework de Desenvolvimento Padronizado**  
-`Java 17` `Spring Boot` `Jenkins`
-```java
-@LegalCompliance
-public class DocumentProcessor {
-  @PerformanceMonitor
-  public ProcessResult analyze(LegalDocument doc) {
-    // Lógica padronizada
-  }
-}
-```
-- **30+ componentes** reutilizáveis
-- Redução de **40% em bugs** pós-deploy
-
----
-
-## ⚙️ **Arquiteturas Implementadas**
-
-### Microsserviços Jurídicos
-```mermaid
-graph TD
-    A[Frontend] --> B[API Gateway]
-    B --> C[Auth Service]
-    B --> D[Case Management]
-    B --> E[Document AI]
-    D --> F[(PostgreSQL)]
-    E --> G[(S3)]
-```
-
-### Data Pipeline Escalável
-```mermaid
-graph LR
-    A[Fontes] --> B[Kafka]
-    B --> C[Spark]
-    C --> D[Data Lake]
-    D --> E[Airflow]
-    E --> F[Redshift]
-```
-
----
-
-## 📊 **Impacto Mensurável**
-
-| Área          | Solução | Resultado |
-|---------------|---------|-----------|
-| Desempenho    | Otimização Spark | 60% mais rápido |
-| Custo         | Arquitetura AWS | $18k/ano economizados |
-| Produtividade | Framework Interno | 35% menos retrabalho |
-
----
-
-## 🛠 **Stack Completa**
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes)
-
-### 📊 Engenharia de Dados
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-
----
-
 ## 📈 **GitHub Analytics**  
 | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
+## 📫 **Vamos Conversar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
 
-
+---
 <hr>
 
 ## 🛠 **Tecnologias Principais**  
