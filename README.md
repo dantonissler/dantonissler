@@ -74,44 +74,7 @@ Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorve
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
 
-
-
-### Git usage status:
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&langs_count=6&theme=dracula"/>
-
-<hr>
-
-### Abaixo estão as minhas redes sociais, sinta-se à vontade para entrar em contato comigo ou deixar uma mensagem 📫
-
-<a href="https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://t.me/DantonIssler" target="_blank">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://api.whatsapp.com/send?phone=556792466935" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:danton.issler18@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/dantonisslerrod/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://gitlab.com/danton.issler" target="_blank">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=Gitlab&logoColor=white"/>
-</a>
-<a href="https://bitbucket.org/dantonissler" target="_blank">
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</a>
-<a href="https://github.com/dantonissler/dantonissler/blob/main/README.md">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://dev.to/dantonissler">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<hr>
+---
 
 ## Minhas Habilidades 🛠
 
