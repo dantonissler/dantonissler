@@ -1,123 +1,20 @@
-# 👋 Olá, eu sou Danton Issler Rodrigues 
-**Tech Lead | Engenheiro de Dados & IA | Especialista em Soluções Jurídicas Tecnológicas**
+# 👨💻 Danton Issler Rodrigues  
+**Tech Lead | Engenheiro de Dados & IA | Especialista em Sistemas Jurídicos em Escala**
 
-💼 **Tech Lead de Dados & IA** no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
-🎓 Bacharel em Engenharia da Computação (Uniderp) | Técnico em Informática (IFRO)  
-🚀 **7+ anos** desenvolvendo sistemas escaláveis para contencioso em massa  
+💼 **Líder Técnico** no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
+🎓 Bacharel em Engenharia da Computação | Técnico em Informática  
+🚀 **7+ anos** construindo sistemas críticos para contencioso em massa  
+🔧 **Stack Principal:** Java/Python, Airflow/Spark, AWS/Azure, Kubernetes  
+
+---
 
 ## 🔍 **Sobre Mim**
-Líder técnico com expertise em **arquitetura de dados, IA generativa e automação de processos jurídicos**. Minha trajetória inclui:
-- Domínio completo do ciclo de desenvolvimento (planejamento → implantação → monitoramento)
-- Especialização em **Java/Python** e ecossistema de dados (Airflow, Spark, AWS)
-- Implementação de **padrões de governança** e documentação técnica para equipes
+Líder técnico especializado em transformar complexidade jurídica em sistemas escaláveis através de:
+- Arquiteturas de dados robustas e pipelines de IA generativa
+- Implementação de padrões de desenvolvimento e governança
+- Mentoria de equipes e criação de frameworks internos
 
 ---
-
-## 🛠 **Stack Principal**  
-### ☁️ **Cloud & Infraestrutura**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 📊 **Engenharia de Dados**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### ⚙️ **Backend & DevOps**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
----
-
-## 🏆 **Destaques**  
-### 🚀 **Liderança Técnica**  
-- Estruturei o setor de **Dados & IA** em escritório TOP 3 de contencioso em massa:  
-  - Implementação de **CI/CD** (redução de 40% em incidentes pós-deploy)  
-  - Criação de framework interno para padronização de código  
-
-### 🤖 **Inovações com IA**  
-- **Assistente jurídico inteligente** (Teams + GLPI + Copilot Studio):  
-  - Redução de **30% no tempo** de abertura de chamados  
-  - Pipeline de **NLP para classificação automática** de processos  
-
-### 📈 **Soluções em Escala**  
-- Arquitetura de dados para **100k+ casos/ano**:  
-  - Processamento de **2TB/mês** com Airflow + Spark  
-  - Otimização de **25% nos custos** AWS (S3/Redshift)  
-
----
-
-## 📊 **GitHub Analytics**  
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
-|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-
----
-
-## 📫 **Contato**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Olá, eu sou Danton Issler Rodrigues 
-**Tech Lead | Engenheiro de Dados & IA | Java/Python Specialist**
-
-Atualmente, atuo em tempo integral como Tech Lead da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa em todo o Brasil. Sou bacharel em Engenharia da Computação pela Uniderp e técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o setor jurídico.
-
-Minha carreira como desenvolvedor permitiu-me adquirir habilidades em todas as etapas do desenvolvimento de ferramentas automatizadas, softwares e aplicativos, desde o planejamento com escalabilidade até a execução e manutenção. Minha principal linguagem de programação é Java/Maven, mas também possuo ampla experiência em outras linguagens, como Python, TypeScript, JavaScript, Ruby on Rails e PHP, além de linguagens para desenvolvimento de pipelines como bash. Tenho conhecimento em bancos de dados SQL e NoSQL e experiência em plataformas como Azure e AWS. Utilizando o CopilotStudio, criei um bot de criação de chamados no GLPI interno utilizando o Teams. Adoro novos desafios e estou sempre pronto para explorar novas tecnologias.
-
-Tenho um profundo conhecimento em estrutura de dados, arquitetura e engenharia de software e dados, containerização (Docker), CI/CD, testes automatizados, observabilidade e monitoramento.
-
-Meu cargo atual como líder de equipe me possibilitou treinar novos colegas, participar de decisões estratégicas e criar a estrutura e diretivas do meu setor, além de desenvolver a infraestrutura necessária para a publicação das ferramentas e a padronização do código. Também criei uma extensa documentação para facilitar a adoção e o treinamento de novos colegas. Trabalho intensivamente com soluções utilizando inteligência artificial generativa, juntamente com algoritmos em Python, atuando em projetos estratégicos de alto valor.
-
-Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorver rapidamente novos contextos e criar autonomia em pouco tempo. Valorizo o trabalho em equipe e a troca de conhecimento.
-
-<hr>
-
-💼 **Atual:** Tech Lead de Dados & IA no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
-🎓 **Formação:** Bacharel em Engenharia da Computação (Uniderp) + Técnico em Informática (IFRO)  
-🚀 **7+ anos** desenvolvendo soluções escaláveis para o setor jurídico  
-
----
-
-## 🛠 **Tecnologias Principais**  
-
-### ☁️ **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 📊 **Engenharia de Dados**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-
-### ⚙️ **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
----
-
 ## 🏆 **Destaques**  
 
 ### 🚀 **Liderança & Estratégia**  
@@ -142,11 +39,131 @@ Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorve
 
 ---
 
+## 🛠 **Projetos Técnicos em Destaque**
+
+### 1. **Sistema de Automação Jurídica com IA**  
+`Python` `FastAPI` `Transformers` `AWS Lambda`  
+```python
+# Pipeline de NLP para documentos jurídicos
+from transformers import pipeline
+
+nlp = pipeline("ner", model="legal-bert", device=0)
+results = nlp(legal_document)
+```
+- Processamento de **500+ documentos/dia** com 92% de acurácia
+- Integração com Microsoft Teams via Copilot Studio
+- Redução de **30% no tempo** de processos manuais
+
+### 2. **Pipeline de Dados para Contencioso em Massa**  
+`Airflow` `Spark` `Redshift` `dbt` `ChatGPT`
+```sql
+-- Consulta otimizada no Redshift
+SELECT court_region, COUNT(*) 
+FROM legal_cases 
+PARTITION BY filing_date
+```
+- Processamento de **2TB/mês** de dados judiciais
+- Arquitetura que reduziu custos em **25%**
+- Monitoramento em tempo real com Grafana/Prometheus
+
+### 3. **Framework de Desenvolvimento Padronizado**  
+`Java 17` `Spring Boot` `Jenkins`
+```java
+@LegalCompliance
+public class DocumentProcessor {
+  @PerformanceMonitor
+  public ProcessResult analyze(LegalDocument doc) {
+    // Lógica padronizada
+  }
+}
+```
+- **30+ componentes** reutilizáveis
+- Redução de **40% em bugs** pós-deploy
+
+---
+
+## ⚙️ **Arquiteturas Implementadas**
+
+### Microsserviços Jurídicos
+```mermaid
+graph TD
+    A[Frontend] --> B[API Gateway]
+    B --> C[Auth Service]
+    B --> D[Case Management]
+    B --> E[Document AI]
+    D --> F[(PostgreSQL)]
+    E --> G[(S3)]
+```
+
+### Data Pipeline Escalável
+```mermaid
+graph LR
+    A[Fontes] --> B[Kafka]
+    B --> C[Spark]
+    C --> D[Data Lake]
+    D --> E[Airflow]
+    E --> F[Redshift]
+```
+
+---
+
+## 📊 **Impacto Mensurável**
+
+| Área          | Solução | Resultado |
+|---------------|---------|-----------|
+| Desempenho    | Otimização Spark | 60% mais rápido |
+| Custo         | Arquitetura AWS | $18k/ano economizados |
+| Produtividade | Framework Interno | 35% menos retrabalho |
+
+---
+
+## 🛠 **Stack Completa**
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes)
+
+### 📊 Engenharia de Dados
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+
+---
+
 ## 📈 **GitHub Analytics**  
 | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+<hr>
+
+## 🛠 **Tecnologias Principais**  
+
+### ☁️ **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### 📊 **Engenharia de Dados**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### ⚙️ **Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 ---
+
 
 ## 📫 **Vamos Conversar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
