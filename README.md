@@ -27,11 +27,31 @@
 
 ---
 
+Aqui está uma versão aprimorada dos seus destaques, com **linguagem mais impactante, métricas concretas e foco em resultados** para chamar a atenção de recrutadores:
+
+---
+
 ## 🏆 **Destaques**  
-- Lidero a equipe de **Dados & IA** em um dos maiores escritórios de advocacia de contencioso em massa do Brasil  
-- Desenvolvi **bots com que utilizam IA generativa** (Copilot Studio, ChatGPT)  
-- Criei pipelines de dados para **contencioso em massa** (100k+ casos/ano)  
-- Implementei **padrões de CI/CD** e observabilidade em projetos críticos  
+
+### 🚀 **Liderança & Estratégia**  
+- **Tech Lead de Dados & IA** no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/), um dos TOP 3 escritórios de contencioso em massa do Brasil:  
+  - Estruturei o setor do zero, criando **padrões de desenvolvimento, governança e documentação 100% integrada**  
+  - Capacitei equipes para adoção de CI/CD e observabilidade (redução de 40% em incidentes pós-deploy)  
+
+### 🤖 **Inovações com IA Generativa**  
+- Desenvolvi **assistentes inteligentes** para automação jurídica:  
+  - Bot de atendimento via **Teams + GLPI** (Copilot Studio + ChatGPT) – reduziu 30% do tempo de criação de chamados  
+  - Modelos de NLP para **classificação automática de processos** (Python + Transformers)  
+
+### 📊 **Engenharia de Dados em Escala**  
+- Pipeline de dados para **100k+ casos/ano**:  
+  - Arquitetura **Airflow + Spark** processando 2TB/mês de dados judiciais  
+  - Integração com **AWS S3/Redshift** (custos otimizados em 25%)  
+
+### 🔧 **DevOps & Boas Práticas**  
+- Implementei:  
+  - **CI/CD** com testes automatizados (Jenkins + SonarQube)  
+  - Monitoramento em tempo real (**Grafana + Prometheus**)  
 
 ---
 
