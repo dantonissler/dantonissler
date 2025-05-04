@@ -28,7 +28,7 @@
 ---
 
 ## 🏆 **Destaques**  
-- Lidero a equipe de **Dados & IA** em um dos maiores escritórios de advocacia do Brasil  
+- Lidero a equipe de **Dados & IA** em um dos maiores escritórios de advocacia de contencioso em massa do Brasil  
 - Desenvolvi **bots com IA generativa** (Copilot Studio + Teams/GLPI)  
 - Criei pipelines de dados para **contencioso em massa** (100k+ casos/ano)  
 - Implementei **padrões de CI/CD** e observabilidade em projetos críticos  
