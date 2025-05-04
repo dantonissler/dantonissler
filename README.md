@@ -1,4 +1,50 @@
-### Olá, sou Danton 👋
+# 👋 Olá, eu sou Danton Issler Rodrigues 
+**Tech Lead | Engenheiro de Dados & IA | Java/Python Specialist**  
+
+💼 **Atual:** Tech Lead de Dados & IA no [Ernesto Borges Advogados](https://www.ernestoborges.com.br/)  
+🎓 **Formação:** Bacharel em Engenharia da Computação (Uniderp) + Técnico em Informática (IFRO)  
+🚀 **7+ anos** desenvolvendo soluções escaláveis para o setor jurídico  
+
+---
+
+## 🛠 **Tecnologias Principais**  
+
+### ☁️ **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### 📊 **Engenharia de Dados**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### ⚙️ **Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+---
+
+## 🏆 **Destaques**  
+- Lidero a equipe de **Dados & IA** em um dos maiores escritórios de advocacia do Brasil  
+- Desenvolvi **bots com IA generativa** (Copilot Studio + Teams/GLPI)  
+- Criei pipelines de dados para **contencioso em massa** (100k+ casos/ano)  
+- Implementei **padrões de CI/CD** e observabilidade em projetos críticos  
+
+---
+
+## 📈 **GitHub Analytics**  
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
+|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+
+---
+
+## 📫 **Vamos Conversar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danton.issler18@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556792466935)
 
 Atualmente, atuo em tempo integral como Tech Lead da equipe de Dados & IA no escritório Ernesto Borges Advogados, um renomado escritório de advocacia que atua com contencioso em massa em todo o Brasil. Sou bacharel em Engenharia da Computação pela Uniderp e técnico em Informática pelo IFRO - Campus Ji-Paraná. Desde 2013, venho acumulando uma vasta gama de cursos preparatórios em tecnologias e atuo como desenvolvedor desde 2017, somando mais de 7 anos de experiência, principalmente em soluções para o setor jurídico.
 
@@ -13,6 +59,10 @@ Sou um profissional curioso e sempre em busca de aprimoramento, capaz de absorve
 - 🔭 Atualmente trabalho como Team Leader no escritório Ernesto Borges Advogados em Campo Grande - MS
 - 🌱 Cursando o bacharelado em Engenharia da Computação
 - 😄 Atualmente meu foco é me tornar um Lider melhor
+
+## 🔧 Projetos Relevantes  
+- **Sistema de Análise Jurídica**: API Python + NLP para classificação de processos  
+- **Data Pipeline**: ETL diário de 50GB de dados judiciais (Airflow + Spark)  
 
 <hr>
 
