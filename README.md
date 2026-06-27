@@ -75,9 +75,6 @@ Líder técnico especializado em transformar complexidade jurídica em plataform
 
 ---
 
-## 📈 **GitHub Analytics**  
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dantonissler&show_icons=true&theme=dracula&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dantonissler&layout=compact&theme=dracula&hide_border=true) |
-|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 📫 **Vamos Conversar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danton-issler-rodrigues-8ba01a115/)
